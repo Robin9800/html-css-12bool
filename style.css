@@ -1,0 +1,25 @@
+/*UTILITIES*/
+.bg-blu{
+    background-color: blue;
+}
+.bg-red{
+    background-color: red;
+}
+.margin-top{
+    margin-top: 20px;
+}
+
+/*CONTENT*/
+.block{
+    background-color: hsl(214deg 100% 49%);
+    min-height: 50px;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+    line-height: 50px;
+    display: inline-block;
+    padding: 10px;
+}
+.son{
+    background-color: hsl(147deg 100% 44%);
+}
